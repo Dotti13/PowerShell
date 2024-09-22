@@ -20,7 +20,8 @@ Windows PowerShell specific issues should be reported with the [Feedback Hub app
 
 If you are new to PowerShell and want to learn more, we recommend reviewing the [getting started][] documentation.
 
-[getting started]: https://learn.microsoft.com/powershell/scripting/learn/more-powershell-learning
+[getting started]: 
+https://learn.microsoft.com/powershell/scripting/learn/more-powershell-learning
 
 ## Get PowerShell
 
@@ -40,8 +41,8 @@ For more information on how and why we built this dashboard, check out this [blo
 
 ## Discussions
 
-[GitHub Discussions](https://docs.github.com/discussions/quickstart) is a feature to enable free and open discussions within the community
-for topics that are not related to code, unlike issues.
+[GitHub Discussions](://docs.github.com/discussions/quickstart) is a feature to enable free and open discussions within the community
+for topics that are not related to code, unlike issues.https
 
 This is an experiment we are trying in our repositories, to see if it helps move discussions out of issues so that issues remain actionable by the team or members of the community.
 There should be no expectation that PowerShell team members are regular participants in these discussions.
